@@ -2,7 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d9b2ab8-539b-456b-aaef-2d7ccb691e6b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/hola.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examen3/src/main/java/com/mx/poo2/ingsoft/examen3/Examen3Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../examen3/src/main/java/com/mx/poo2/ingsoft/examen3/Examen3Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Modelo/Persona.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/add/add.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/add/add.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/add/add.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/add/add.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/editar/editar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/editar/editar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/editar/editar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/editar/editar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/listar/listar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/listar/listar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/listar/listar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Persona/listar/listar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Service/service.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/Service/service.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/tsconfig.spec.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +60,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Adrian Arias/Desktop/programas/POOII/examen3/examen/examen3angular/crud",
+    "last_opened_file_path": "C:/Users/Adrian Arias/Desktop/programas/POOII/examen3/examen/examen3angular/back",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686005951518</updated>
       <workItem from="1686005952499" duration="7000" />
+      <workItem from="1686009699355" duration="330000" />
     </task>
     <servers />
   </component>
